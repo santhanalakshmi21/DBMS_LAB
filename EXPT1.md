@@ -25,7 +25,4 @@ SELECT * FROM emp;
 SELECT empname,salary FROM emp;
 ```
 # 4. Modify values
-...SQL
-Alter table emp add(sal number(7,2));
-...
-# 5. Drop values
+
