@@ -24,5 +24,5 @@ SELECT * FROM emp;
 ```SQL
 SELECT empname,salary FROM emp;
 ```
-# 4. Modify values
+
 
