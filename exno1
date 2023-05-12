@@ -1,3 +1,23 @@
-#Alter Table
+#Alter Table structure
 
 Alter table emp add(sal number(7,2));
+
+#Drop column
+
+alter table emp drop column sal;
+
+#modify existing columns
+
+alter table emp modify(ename varchar(15));
+
+#Rename the tables
+
+rename emp to emp1;
+
+#Truncate the tables
+
+trunc table emp1;
+
+#destroy table
+
+drop table emp;
