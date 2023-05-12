@@ -1,0 +1,7 @@
+#update
+
+update student set id=02 where condition;
+
+#delete
+
+delete from student where sec=w1;
